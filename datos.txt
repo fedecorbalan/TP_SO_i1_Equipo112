@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Manuel Quintana Miño-
 Direccion IPv4: 192.168.0.241
 11:45
+
+=======
+Nombre Y Apellido: Matias Diaz
+Direccion IP: 192.168.1.2
+Hora: 11:48
 
